@@ -21,19 +21,19 @@ footer {
 }
 
 /* Home Page Styles */
-body.Home {
+body.home {
     background-color: #D0ECE7; /* Light Green */
     color: #333;
 }
 
 /* About Page Styles */
-body.About {
+body.about {
     background-color: #fff; /* White */
     color: #333;
 }
 
 /* Sports Page Styles*/
-body.Sports {
+body.sports {
     background-color: #FFA500; /* Orange */
     color: #fff;
 }
