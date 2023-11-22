@@ -33,7 +33,8 @@ body.books {
 }
 
 /* Sports Page Styles*/
-body.schedule {
-    background-color: #A569BD; /* Purple */
-    color: #fff;
+body.Sports {
+    background-color: #A93226; /* Maroon */
+    color: #A93226;
+    font: #fff;
 }
