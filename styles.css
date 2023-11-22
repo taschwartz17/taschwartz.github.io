@@ -35,6 +35,5 @@ body.books {
 /* Sports Page Styles*/
 body.Sports {
     background-color: #A93226; /* Maroon */
-    color: #A93226;
-    font: #fff;
+    color: #333;
 }
